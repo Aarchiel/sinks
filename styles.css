@@ -32,4 +32,5 @@ img {
 table {
     width: 100%;
     border-collapse: collapse;
+    font-family: "Courier New", monospace;
 }
